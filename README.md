@@ -1,5 +1,5 @@
 <h1 align="center">🪷 Aixa Nayeli Sanchez 🪷</h1>
-<h3 align="center">Computer Science Capstone | Data Analytics Portfolio</h3>
+<h3 align="center">Computer Science Capstone </h3>
 
 <p align="center">
   <a href="https://aixa1111.github.io/ePortfolio/">
