@@ -1,9 +1,9 @@
-<h1 align="center">🌸 Aixa Nayeli Sanchez</h1>
+<h1 align="center">🪷 Aixa Nayeli Sanchez 🪷</h1>
 <h3 align="center">Computer Science Capstone | Data Analytics Portfolio</h3>
 
 <p align="center">
   <a href="https://aixa1111.github.io/ePortfolio/">
-    🌐 View Live Portfolio
+    ✨ View Live Portfolio
   </a>
 </p>
 
@@ -20,14 +20,14 @@ This portfolio showcases enhanced academic artifacts demonstrating growth in:
 
 ---
 
-## 🚀 Featured Projects
+## ✨ Featured Projects
 
 ### 💻 Software Engineering and Design
 - C++ graphics application with enhanced modular structure
 - Debugging runtime and dependency issues
 - Performance optimization and refactoring
 
-👉 Repository:  
+✨ Repository:  
 https://github.com/Aixa1111/CS-330-Comp-Graphic-and-Visualization
 
 ---
@@ -37,7 +37,7 @@ https://github.com/Aixa1111/CS-330-Comp-Graphic-and-Visualization
 - Improved filtering and search logic
 - Backend performance optimization
 
-👉 Repository:  
+✨ Repository:  
 https://github.com/Aixa1111/CS-340-Client-Server-Development
 
 ---
@@ -47,7 +47,7 @@ https://github.com/Aixa1111/CS-340-Client-Server-Development
 - Secure configuration and connection validation
 - Reliable data handling and structured class architecture
 
-👉 Repository:  
+✨ Repository:  
 https://github.com/Aixa1111/CS-340-Client-Server-Development
 
 ---
